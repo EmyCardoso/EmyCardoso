@@ -1,15 +1,39 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Emilyn Cardoso
 
+### 💻 Desenvolvedora Backend em evolução | Apaixonada por aprender e criar soluções inovadoras 🚀
 
-**EmyCardoso/EmyCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu GitHub! Sou estudante de *Análise e Desenvolvimento de Sistemas* e estou me especializando no desenvolvimento backend. Minha paixão é construir projetos que façam a diferença, utilizando as melhores práticas em programação e sempre explorando novas tecnologias.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🌟 O que você encontrará aqui?
+
+- *Projetos Pessoais:* APIs RESTful, soluções para automação e sistemas interativos.
+- *Aprendizado:* Repositórios que mostram minha jornada em tecnologias como *Java, **Spring Boot, e **SQL*.
+- *Colaborações:* Estou aberta a projetos colaborativos e contribuições em comunidades open-source.
+
+---
+
+### 🚀 Tecnologias que domino
+
+- *Linguagens:* Java, SQL, JavaScript  
+- *Frameworks:* Spring Boot  
+- *Banco de Dados:* MySQL, PostgreSQL  
+- *Ferramentas:* Git, GitHub  
+
+---
+
+### 📚 Estou atualmente aprendendo:
+
+- Estruturas de Dados e Algoritmos  
+- Desenvolvimento avançado com Spring Boot  
+- Integração de APIs e microsserviços  
+
+---
+
+### 🌐 Entre em contato comigo!
+
+- *E-mail:* [cardosoemilyn547@gmail.com](mailto:cardosoemilyn547@gmail.com)  
+- *LinkedIn:* [Emilyn Cardoso](https://www.linkedin.com/in/emilyn-cardoso/)  
+
+⭐ Vamos crescer juntos no mundo da tecnologia! ⭐
