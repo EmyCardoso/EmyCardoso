@@ -16,7 +16,7 @@ Bem-vindo ao meu GitHub! Sou estudante de *Análise e Desenvolvimento de Sistema
 
 ### 🚀 Tecnologias que domino
 
-- *Linguagens:* Java, SQL, JavaScript  
+- *Linguagens:* Java 
 - *Frameworks:* Spring Boot  
 - *Banco de Dados:* MySQL, PostgreSQL  
 - *Ferramentas:* Git, GitHub  
