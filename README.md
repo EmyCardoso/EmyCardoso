@@ -9,7 +9,7 @@ Bem-vindo ao meu GitHub! Sou estudante de *Análise e Desenvolvimento de Sistema
 ### 🌟 O que você encontrará aqui?
 
 - *Projetos Pessoais:* APIs RESTful, soluções para automação e sistemas interativos.
-- *Aprendizado:* Repositórios que mostram minha jornada em tecnologias como *Java, **Spring Boot, e **SQL*.
+- *Aprendizado:* Repositórios que mostram minha jornada em tecnologias como *Java, **Spring Boot ...
 - *Colaborações:* Estou aberta a projetos colaborativos e contribuições em comunidades open-source.
 
 ---
